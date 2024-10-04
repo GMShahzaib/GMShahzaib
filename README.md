@@ -61,7 +61,3 @@ Feel free to reach out to discuss how I can contribute to your projects or explo
 
 ## 🏷️ Tags
 #FullStackDeveloper #ReactJS #NextJS #MERNStackDeveloper #WebDevelopment #JavaScript #TypeScript
-
----
-
-Feel free to customize it further if needed.
