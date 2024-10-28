@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a proactive and solution-focused full stack we
 
 **Full-stack Developer**  
 _AIME: Innovation Without Limits, London, England, United Kingdom_  
-**May 2023 - Present (1 year)**
+**May 2023 - Present**
 
 - Contributed to innovative projects leveraging React.js, Next.js, and Node.js.
 - Developed efficient and user-friendly interfaces.
