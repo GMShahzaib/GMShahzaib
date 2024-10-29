@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a proactive and solution-focused full stack we
 
 ## 📚 Professional Experience
 
-**Full-stack Developer**  
+**Full-stack Developer (remote)**  
 _AIME: Innovation Without Limits, London, England, United Kingdom_  
 **May 2023 - Present**
 
